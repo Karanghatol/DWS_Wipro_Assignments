@@ -1,6 +1,6 @@
 Q.1 Write about application packaging
-
-Answer: Application packaging is the process of preparing software so it can be easily installed on many computers the same way every time. 
+Answer: 
+  Application packaging is the process of preparing software so it can be easily installed on many computers the same way every time. 
 Instead of manually installing apps, IT teams create a "package" that includes the installer, settings, and anything else the app needs. 
 This helps make deployment faster and cleaner. It's mostly used in companies to save time and avoid errors. Tools like MSI/MSIX and App-V are often used. 
 The main goal is simple: make the app work right everywhere, every time.
